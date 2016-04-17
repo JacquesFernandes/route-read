@@ -9,3 +9,4 @@ Requirements:
 - Linux distro
 - "traceroute" command should be installed/available
 - Python3.x
+- whois (should be there by default)
